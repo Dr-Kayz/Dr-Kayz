@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dr-Kayz
 - 👀 I’m interested in developing softwares
-- 🌱 I’m currently learning python and flask
-- 💞️ I’m looking to collaborate on projects
+- I’m currently learning python and flask
+- I’m looking to collaborate on projects
 
 <!---
 Dr-Kayz/Dr-Kayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
