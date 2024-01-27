@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dr-Kayz
 - 👀 I’m interested in developing softwares
-- I’m currently learning python and flask
 - I’m looking to collaborate on projects
 
 <!---
